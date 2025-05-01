@@ -90,9 +90,9 @@
         <div class="header">
             <img src="../assets/img/logo.png" alt="Bank Logo" class="logo">
             <h2>Sawongam Bank Ltd</h2>
-            <p>Putting fun
-                in funds
-                since 1969</p>
+            <p>Empowering Your
+                Financial Future
+                since 2004</p>
         </div>
         <h3>Bank Statement</h3>
         <table class="statement">

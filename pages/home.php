@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sawongam Bank - Putting fun in funds since 1969</title>
+    <title>Sawongam Bank - Empowering Your Financial Future</title>
     <link rel="icon" href="../assets/img/logo.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -65,12 +65,11 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-5">
-                    <p class="bank-subtitle mb-1">we don't just manage your money, we meme it.</p>
-                    <h2 class="mb-3 bank-title">Putting "fun" <br> in "funds" <br> since 1969</h2>
+                    <p class="bank-subtitle mb-1">"We don’t just manage your money; we make it work smarter for you."</p>
+                    <h2 class="mb-3 bank-title">Empowering your <br> Financial Future <br> since 2004</h2>
                     <p class="bease-subtitle col-9 mb-4 bank-info">
-                        We're not your stuffy, suit-and-tie bankers. We're the bank that gets you - the meme lords, the
-                        avocado toast enthusiasts, the ones who still think dogecoin has potential.
-                    </p>
+                    "We’re not just bankers in suits – we understand you. Whether you're an entrepreneur, a tech enthusiast, or a financial visionary, we’re here to support your journey."
+                 </p>
                     <div class="row">
                         <div class="col-md-6 mb-5">
                             <a href="register.php"><button class="btn btn-primary border-0 bank-btn">Register now</button></a>
